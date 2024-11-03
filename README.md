@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# My name is Ruslan Agaev, I'm a student at MePHI. Really excited to be working on some cool projects. Reach out!
+My name is Ruslan Agaev, I'm a student at MePHI. Really excited to be working on some cool projects. Reach out!
 <!--
 **heckfy88/heckfy88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
